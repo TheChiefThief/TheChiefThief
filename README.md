@@ -21,9 +21,8 @@
 
 - 🎓 I’m currently studying **Information Systems Engineering at UTN FRT**.
 - 🔭 I’m currently working on **Data Science projects (Time Series) & Web Dev**.
-- 🌱 I’m currently learning **Machine Learning, Data Engineering & German (Deutsch)**.
+- 🌱 I’m currently learning **Machine Learning, Data Engineering**.
 - ☁️ I have a keen interest in **AWS Cloud Computing**.
-- 🐧 I'm **Linux (Zorin OS)** as my daily driver.
 - 💬 Ask me about **Python, C#, React, or SQL**.
 
 <br>
