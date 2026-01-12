@@ -56,6 +56,3 @@
 
 <br>
 <br>
-
----
-<p align="center">Made with ❤️ by Luciano Malica</p>
